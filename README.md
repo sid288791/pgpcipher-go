@@ -3,8 +3,8 @@
 
 ### Steps to run the project
 * clone project
-    1. git clone https://github.com/sid288791/pgpcipher-py.git
-  2.  python setup.py install 
+    1. git clone https://github.com/sid288791/pgpcipher-go.git
+    2.  run go build
 * Goto main.go   
   - If you want to encrypt file provide below details
   
@@ -24,7 +24,7 @@
     
   - comment encByPubKey function as below    
         1.'#'encryptByPubKey(pgp_pub_key, file_to_enc, output_file)
-* run main.py
+* run main.go
 
 # Export and Import pgp keys with GPG
 
