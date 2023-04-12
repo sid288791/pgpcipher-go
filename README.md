@@ -1,5 +1,5 @@
 
-# Open PGP Cipher in python
+# Open PGP Cipher in golang
 
 ### Steps to run the project
 * clone project
